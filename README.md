@@ -5,7 +5,7 @@ A simple variante to exchange information between scenes in Unity is to use scri
 Several implementations of a singleton: 
 + Link to [SimpleSingleton](https://github.com/HS-Teaching/smeerws-SimpleSingleton)
 + Link to [PersistentSingleton](https://github.com/HS-Teaching/smeerws-PersistentSingleton)
-+ Link to {LazySingleton](https://github.com/HS-Teaching/smeerws-PersistentSingleton)
++ Link to [LazySingleton](https://github.com/HS-Teaching/smeerws-PersistentSingleton)
 + Link to [ConcreteSingleton](https://github.com/HS-Teaching/smeerws-ConcreteSingleton)
 
 Dev-platform: Win 10, Unity Version: 2018.2.14f1, Visual Studio Version: VS Community 2017, 15.3.9;
