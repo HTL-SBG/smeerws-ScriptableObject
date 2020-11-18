@@ -12,4 +12,7 @@ Dev-platform: Win 10, Unity Version: 2018.2.14f1, Visual Studio Version: VS Comm
 Scripting Runtime Version: .NET 4.x Equivalent
 API Compatibility Level: .NET Standard 2.0
 
+Tutorial:
+https://www.youtube.com/watch?v=TjTL-MXPnbo
+
 Target platform: Standalone (Reference Resolution: 1024 x 768)
