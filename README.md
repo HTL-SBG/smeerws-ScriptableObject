@@ -1,8 +1,7 @@
 # smeerws-ScriptableObject
 
 ### Project description: 
-THis Unity project serves to show a variante to exchange information between scenes in Unity, scriptable objects. 
-
+This Unity project serves to show a variante to exchange information between scenes in Unity, scriptable objects. 
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
@@ -27,13 +26,13 @@ Documentation:
 * https://docs.unity3d.com/2020.1/Documentation/Manual/class-ScriptableObject.html
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
 None
 
 ### Lessons Learned: 
-create a scriptable object
-use a scriptabe object (save variables in the scriptable object)
+* create a scriptable object
+* use a scriptabe object (save variables in the scriptable object)
 
 Copyright by smeerws
