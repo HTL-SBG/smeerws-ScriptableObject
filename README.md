@@ -12,7 +12,9 @@ Windows 10, Unity 2020.1.5.f1, Visual Studio Community 2019
 WebGL Refres: 960x600 
 
 ### Visuals: 
-
+<div style="float:left;">
+<img src="./Screenshots/scriptableObject.JPG" width="450">
+</div>
 ### Necessary setup/execution steps: 
 None
 
