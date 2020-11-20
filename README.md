@@ -4,7 +4,6 @@
 This Unity project serves to show a variante to exchange information between scenes in Unity, scriptable objects. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
 Windows 10, Unity 2020.1.5.f1, Visual Studio Community 2019
 
 ### Target platform: 
