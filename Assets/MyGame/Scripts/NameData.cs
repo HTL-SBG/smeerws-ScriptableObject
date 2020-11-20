@@ -1,8 +1,15 @@
 ﻿using UnityEngine;
 
 [CreateAssetMenu(menuName = "NameData")]
-public class NameData : ScriptableObject {
+public class NameData : ScriptableObject, ISerializationCallbackReceiver 
+{
+    public string yourName;
 
-    public string yourName = "empty";
+    public void OnAfterDeserialize()
+    {
+        yourName = "empty";
+    }
 
+    public void OnBeforeSerialize(){ }
+       
 }

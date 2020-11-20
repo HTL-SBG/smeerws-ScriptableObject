@@ -4,7 +4,7 @@ using TMPro;
 
 public class GameManager : MonoBehaviour {
 
-    private InputField objName;
+    private InputField userName;
     private TextMeshProUGUI tmpName;
 
     public NameData nameData;
@@ -12,12 +12,13 @@ public class GameManager : MonoBehaviour {
 
     private void Start()
     {
-        objName = FindObjectOfType<InputField>();
+        userName = FindObjectOfType<InputField>();
     }
 
     public void SaveName()
     {
-        nameData.name = objName.text;
+        nameData.name = "NameData";
+        nameData.yourName = userName.text;
         sceneLoader.LoadNextScene();
     }
 
@@ -25,9 +26,9 @@ public class GameManager : MonoBehaviour {
     {
         if(tmpName == null)
         {
-            tmpName = GameObject.Find("TMPName").GetComponent<TextMeshProUGUI>();
+            tmpName = GameObject.Find("SavedNameTmp").GetComponent<TextMeshProUGUI>();
         }
 
-        tmpName.text = nameData.name;
+        tmpName.text = nameData.yourName;
     }
 }
