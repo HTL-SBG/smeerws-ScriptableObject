@@ -1,18 +1,36 @@
 # smeerws-ScriptableObject
 
-A simple variante to exchange information between scenes in Unity is to use scriptable objects (others via singelton, or via static classes).
+### Project description: 
+THis Unity project serves to show a variante to exchange information between scenes in Unity, scriptable objects. 
 
-Several implementations of a singleton: 
-+ Link to [SimpleSingleton](https://github.com/HS-Teaching/smeerws-SimpleSingleton)
-+ Link to [PersistentSingleton](https://github.com/HS-Teaching/smeerws-PersistentSingleton)
-+ Link to [LazySingleton](https://github.com/HS-Teaching/smeerws-LazySingleton)
-+ Link to [ConcreteSingleton](https://github.com/HS-Teaching/smeerws-ConcreteSingleton)
 
-Dev-platform: Win 10, Unity Version: 2018.2.14f1, Visual Studio Version: VS Community 2017, 15.3.9;
-Scripting Runtime Version: .NET 4.x Equivalent
-API Compatibility Level: .NET Standard 2.0
+### Development platform: 
+(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020.1.5.f1, Visual Studio Community 2019
 
+### Target platform: 
+WebGL Refres: 960x600 
+
+### Visuals: 
+
+### Necessary setup/execution steps: 
+None
+
+### Third party material: 
 Tutorial:
-https://www.youtube.com/watch?v=TjTL-MXPnbo
+* https://www.youtube.com/watch?v=TjTL-MXPnbo
 
-Target platform: Standalone (Reference Resolution: 1024 x 768)
+Documentation:
+* https://docs.unity3d.com/2020.1/Documentation/Manual/class-ScriptableObject.html
+
+### Project state: 
+incl. progress in percent
+
+### Limitations: 
+None
+
+### Lessons Learned: 
+create a scriptable object
+use a scriptabe object (save variables in the scriptable object)
+
+Copyright by smeerws
