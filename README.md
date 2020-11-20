@@ -13,7 +13,7 @@ WebGL Refres: 960x600
 
 ### Visuals: 
 <div style="float:left;">
-<img src="./Screenshots/scriptableObject.JPG" width="450">
+<img src="./Screenshots/scriptableObject.JPG" width="650">
 </div>
 ### Necessary setup/execution steps: 
 None
