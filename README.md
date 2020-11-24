@@ -32,6 +32,6 @@ None
 
 ### Lessons Learned: 
 * create a scriptable object
-* use a scriptabe object (save variables in the scriptable object)
+* use a scriptable object (save variables in the scriptable object)
 
 Copyright by smeerws
