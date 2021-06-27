@@ -3,6 +3,9 @@
 ### Project description: 
 This Unity project serves to show a variante to exchange information between scenes in Unity, scriptable objects. 
 
+### Play it:
+https://htl-sbg.github.io/smeerws-ScriptableObject/
+
 ### Development platform: 
 Windows 10, Unity 2020.1.5.f1, Visual Studio Community 2019
 
