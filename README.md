@@ -15,7 +15,7 @@ WebGL Refres: 960x600
 </div>
 
 ### Necessary setup/execution steps: 
-None
+**Start with SaveNameScene** in Untiy (here you will enter a name), with a button press you load the LoadNameScene (here you are able to load the name from the last scene). 
 
 ### Third party material: 
 Tutorial:
