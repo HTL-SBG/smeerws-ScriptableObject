@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(menuName = "NameData")]
-public class NameData : ScriptableObject, ISerializationCallbackReceiver 
+[CreateAssetMenu(menuName = "SoNameData")]
+public class SoNameData : ScriptableObject, ISerializationCallbackReceiver 
 {
     public string yourName;
 
